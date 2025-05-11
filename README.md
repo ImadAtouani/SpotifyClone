@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify Clone : https://spotify-clone2025.netlify.app
 
 This project is a Spotify clone built with Nuxt.js, and TailwindCSS. It allows users to browse featured playlists, get recommendations, and manage their own playlists.
 
